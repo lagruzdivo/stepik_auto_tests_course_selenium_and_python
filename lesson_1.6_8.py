@@ -26,3 +26,5 @@ finally:
     browser.quit()
 
 # не забываем оставить пустую строку в конце файла
+
+#coment in main at lesson_1.6_8 no push new_vetka2
