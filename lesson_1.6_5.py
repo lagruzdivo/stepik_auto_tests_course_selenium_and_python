@@ -30,3 +30,5 @@ finally:
     time.sleep(30)
     # закрываем браузер после всех манипуляций
     browser.quit()
+
+#coment pered vetka 2
