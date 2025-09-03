@@ -32,3 +32,4 @@ finally:
     browser.quit()
 
 #coment pered vetka 2
+    #izmeneniya dlya new_vetka1
